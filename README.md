@@ -129,8 +129,8 @@ A machine learning project focused on diabetes prediction using the PIMA Diabete
 - Data Structures & Algorithms
 - Object-Oriented Design
 - System Design
-- SQL & Database Concepts
-- Machine Learning
+- RAG
+- XAI
 - Generative AI
 
 ---
